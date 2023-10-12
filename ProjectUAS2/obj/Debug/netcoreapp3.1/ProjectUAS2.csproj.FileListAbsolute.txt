@@ -1,0 +1,40 @@
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.exe
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.deps.json
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.json
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\source\repos\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.exe
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.deps.json
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\OneDrive\Documents\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.exe
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.deps.json
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\bin\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.dll
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.pdb
+C:\Users\lenovo\OneDrive\Documents\File Kuliah\Materi Sem 2\Pengembangan Aplikasi windows\UAS PAW\ProjectUAS2\ProjectUAS2\obj\Debug\netcoreapp3.1\ProjectUAS2.genruntimeconfig.cache

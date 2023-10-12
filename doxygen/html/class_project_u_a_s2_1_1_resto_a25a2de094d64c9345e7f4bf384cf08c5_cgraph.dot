@@ -1,0 +1,20 @@
+digraph "ProjectUAS2.Resto.RestoFlex"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ProjectUAS2.Resto.RestoFlex",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ProjectUAS2.Resto.AyamLada\lHitam",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a4f9e5764d6e6f211d14da2b01567db1b",tooltip=" "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ProjectUAS2.Resto.JusAlpukat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a08c046424f9f6c89befe2a85a0983fa4",tooltip=" "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ProjectUAS2.Resto.JusApel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a9400032a82976b3aca78ce503d214eb5",tooltip=" "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ProjectUAS2.Resto.JusMangga",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#ad0fb528c0fb4c8543ac48a79f292d7fa",tooltip=" "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ProjectUAS2.Resto.NasiGoreng",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a6da17f88c45466794f65a37c74648b3f",tooltip=" "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="ProjectUAS2.Resto.SteakDaging",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a9bb48c44886d6b97379a00badb4a4357",tooltip=" "];
+}

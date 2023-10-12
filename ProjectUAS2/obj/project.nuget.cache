@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NXsG9r71VWXuAnt0660demkYNDHK5yLxG2bwoCEwjlVz3qPm35+nl+tYbkALm2X9Gmc3OJ8bD/pXhII0jNcVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\OneDrive\\Documents\\File Kuliah\\Materi Sem 2\\Pengembangan Aplikasi windows\\UAS PAW\\ProjectUAS2\\ProjectUAS2\\ProjectUAS2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

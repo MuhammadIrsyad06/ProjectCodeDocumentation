@@ -1,0 +1,10 @@
+digraph "ProjectUAS2.Resto.SteakDaging"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="ProjectUAS2.Resto.SteakDaging",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ProjectUAS2.Resto.RestoFlex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_project_u_a_s2_1_1_resto.html#a25a2de094d64c9345e7f4bf384cf08c5",tooltip=" "];
+}
